@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HandsTest</string>
+    <string name="create_btn">Сотворить</string>
+    <string name="dead_title">Мертвая</string>
+    <string name="dead_subtitle">или прикидывается</string>
+    <string name="result_title">Жизнь</string>
+    <string name="result_subtitle">Ку-ку!</string>
+    <string name="alive_title">Живая</string>
+    <string name="alive_subtitle">и шевелится</string>
+    <string name="title">Клеточное наполнение</string>
+</resources>
